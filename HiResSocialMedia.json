@@ -1,6 +1,4 @@
 {
-  "key": "https://api.mp3youtube.cc/v2/sanity/key",
-  "ytApi": "https://api.mp3youtube.cc/v2/converter",
-  "services": "https://cobalt-api.kwiatekmiki.com/",
-  "apiSongLink": "https://api.song.link/v1-alpha.1/links?url="
+  "url": "http://23.27.141.127:1945/api/create?url=",
+  "id": "http://23.27.141.127:1945/api/getbyid?id="
 }
